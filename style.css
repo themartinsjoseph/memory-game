@@ -1,8 +1,13 @@
+.name {
+	color: #FF0000;
+}
+
 .board {
 
 	height: 80%; 
 	width: 50%;
 	display: inline-block;
+	text-align: left;
 }
 
 .card {
@@ -19,4 +24,8 @@ h1 {
 
 h2 {
  color: #ffd700;
+}
+
+body {
+	text-align: center;
 }
